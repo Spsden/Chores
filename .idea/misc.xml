@@ -6,11 +6,21 @@
         <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/add.xml" value="0.28229166666666666" />
         <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/addbutton.xml" value="0.3125" />
         <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/cardlayout.xml" value="0.28229166666666666" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/edittext.xml" value="0.296875" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/ic_poppic.xml" value="0.296875" />
         <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/namebar.xml" value="0.3125" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/popuprounded.xml" value="0.296875" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/savebutton.xml" value="0.296875" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/savebuttonstyle.xml" value="0.296875" />
         <entry key="..\:/android_projects/Todo/app/src/main/res/drawable/searchviewbg.xml" value="0.3125" />
         <entry key="..\:/android_projects/Todo/app/src/main/res/font/mainfont.xml" value="0.3265625" />
-        <entry key="..\:/android_projects/Todo/app/src/main/res/layout/activity_main.xml" value="0.2906422120065326" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/layout/activity_main.xml" value="0.19376147467102173" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/layout/activity_pop_up_window.xml" value="0.1" />
         <entry key="..\:/android_projects/Todo/app/src/main/res/layout/card_list.xml" value="0.22018349394434286" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/layout/fragment_addtodo.xml" value="0.17980072463768115" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/layout/oldpopup.xml" value="0.25407608695652173" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/layout/popup.xml" value="0.19376147467102173" />
+        <entry key="..\:/android_projects/Todo/app/src/main/res/layout/somelayout.xml" value="0.18478260869565216" />
         <entry key="..\:/android_projects/Todo/app/src/main/res/layout/todocards.xml" value="0.4373119358074223" />
       </map>
     </option>
